@@ -1,0 +1,9 @@
+# Double descent
+
+Double descent is a phenomenon observed in the context of machine learning and deep neural networks. It refers to the unexpected behavior of the test error (generalization error) as a function of the model complexity, particularly in the regime where the number of parameters is greater than the number of training samples. This phenomenon contradicts the traditional understanding of the bias-variance trade-off and the classical U-shaped curve of the test error with respect to model complexity.
+
+The double descent curve typically shows a second descent or decrease in the test error after an initial increase as the model complexity (number of parameters) increases. This is counterintuitive because one might expect that as the model becomes more complex, overfitting would lead to an increase in the test error rather than a decrease.
+
+The double descent phenomenon has been studied theoretically and empirically. It was first identified in theoretical work by Belkin et al. (2018) and later supported by empirical experiments. It has been shown that double descent can occur when the model is heavily overparameterized, meaning it has more parameters than training samples. In this regime, the model has the capacity to fit the noise in the training data, leading to interpolation and reduced generalization error.
+
+Double descent is relevant in the discussion of the generalization performance of deep neural networks and challenges traditional notions of model complexity and overfitting. However, it's important to note that the conditions under which double descent occurs are specific, and the phenomenon may not be universally observed in all machine learning scenarios.
