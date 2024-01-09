@@ -1,0 +1,24 @@
+---
+title: "AI Starter Guide"
+subtitle: "Concepts • Tactics • Ideas"
+subtitle: "Symptoms • Conditions • Treatments"
+author: "Edited by Joel Parker Henderson"
+date: "Version 1.2.0"
+description: >
+  Topics include artificial intelligence types, machine learning concepts, AI
+  agents, AI datasets, AI/ML algorithms, computer processors,
+  supervised/semi-supervised/unsupervised learning, clustering, dimensionality
+  reduction, anomaly detection, statistical methods, generative models,
+  reinforcement learning, large language models (LLMs), neural networks (NNs),
+  activation functions,  loss functions, kernel tricks, AI performance metrics,
+  AI tools, and AI business areas and sectors.
+cover-image: "../../assets/images/splash/1600x2500.jpg"
+links-as-notes: false
+listings-disable-line-numbers: true
+listings-no-page-break: false
+disable-header-and-footer: false
+subparagraph: true
+lang: "en-US"
+css: "epub.css"
+rights: "© 2023 Joel Parker Henderson. All rights reserved."
+---

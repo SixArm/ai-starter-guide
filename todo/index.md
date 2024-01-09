@@ -12,15 +12,9 @@ Data Augmentation: The process of increasing the amount and diversity of data us
 
 Diffusion: In AI and machine learning, a technique used for generating new data by starting with a piece of real data and adding random noise. A diffusion model is a type of generative model in which a neural network is trained to predict the reverse process when random noise is added to data. Diffusion models are used to generate new samples of data that are similar to the training data.
 
-Double Descent: A phenomenon in machine learning in which model performance improves with increased complexity, then worsens, then improves again.
-
 Embedding: The representation of data in a new form, often a vector space. Similar data points have more similar embeddings.
 
-Emergence/Emergent Behavior (“sharp left turns,” intelligence explosions): In AI, emergence refers to complex behavior arising from simple rules or interactions. “Sharp left turns” and “intelligence explosions” are speculative scenarios where AI development takes sudden and drastic shifts, often associated with the arrival of AGI.
-
 End-to-End Learning: A type of machine learning model that does not require hand-engineered features. The model is simply fed raw data and expected to learn from these inputs.
-
-Expert Systems: An application of artificial intelligence technologies that provides solutions to complex problems within a specific domain.
 
 Fine-tuning: The process of taking a pre-trained machine learning model that has already been trained on a large dataset and adapting it for a slightly different task or specific domain. During fine-tuning, the model’s parameters are further adjusted using a smaller, task-specific dataset, allowing it to learn task-specific patterns and improve performance on the new task.
 
@@ -61,5 +55,3 @@ Transfer Learning: A method in machine learning where a pre-trained model is use
 LSTM and GRU variants of RNNs
 
 binary classification
-
-deep neural networks (DNNs)

@@ -1,8 +1,17 @@
 ---
+---
 title: "AI Starter Guide"
 subtitle: "Concepts • Tactics • Ideas"
 author: "Edited by Joel Parker Henderson"
 date: "Version 1.2.0"
+description: >
+  Topics include artificial intelligence types, machine learning concepts, AI
+  agents, AI datasets, AI/ML algorithms, computer processors,
+  supervised/semi-supervised/unsupervised learning, clustering, dimensionality
+  reduction, anomaly detection, statistical methods, generative models,
+  reinforcement learning, large language models (LLMs), neural networks (NNs),
+  activation functions,  loss functions, kernel tricks, AI performance metrics,
+  AI tools, and AI business areas and sectors.
 titlepage: true
 titlepage-color: "FFFFFF"
 titlepage-text-color: "000000"
