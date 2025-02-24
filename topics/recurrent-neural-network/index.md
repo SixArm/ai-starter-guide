@@ -2,7 +2,7 @@
 
 A Recurrent Neural Network (RNN) is a type of neural network architecture designed to process sequential data by maintaining an internal state or memory. RNNs allow information to be propagated in a loop, allowing the network to retain information about past inputs. RNNs are well-suited for tasks where order and context matter, such as natural language processing (NLP), speech recognition, time series prediction, and handwriting recognition.
 
-Key features…
+**Key aspects:**
 
 Recurrent Connections: RNNs have loops, allowing information from previous time steps to be passed on to the current time step. This allows the network to maintain memory of past inputs.
 

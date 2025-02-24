@@ -1,3 +1,9 @@
+# TODO
+
+ai-form-fill
+ai-image-generation
+ai-internationalization-localization
+
 Common metrics include accuracy, precision, recall, F1-score, mean squared error (MSE), and mean absolute error (MAE).
 
 Attention: In the context of neural networks, attention mechanisms help the model focus on relevant parts of the input when producing an output.

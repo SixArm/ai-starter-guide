@@ -4,13 +4,13 @@ An activation function is a mathematical function applied to the output of an ar
 
 The activation function takes the weighted sum of inputs and biases at a neuron and transforms it into the neuron's output. Without activation functions, the neural network would behave as a linear model, regardless of the number of layers, making it limited in its ability to learn complex patterns.
 
-Key characteristics…
+**Key aspects:**
 
-Non-Linearity: Activation functions introduce non-linearity into the neural network, enabling the model to learn and approximate complex, nonlinear relationships in the data.
+* **Non-Linearity**: Activation functions introduce non-linearity into the neural network, enabling the model to learn and approximate complex, nonlinear relationships in the data.
 
-Differentiability: Activation functions need to be differentiable, as most neural networks use gradient-based optimization techniques (e.g., backpropagation) to update model parameters during training.
+* **Differentiability**: Activation functions need to be differentiable, as most neural networks use gradient-based optimization techniques (e.g., backpropagation) to update model parameters during training.
 
-Monotonicity: Monotonic activation functions preserve the order of inputs, ensuring that increasing the inputs always results in an increase in the outputs.
+* **Monotonicity**: Monotonic activation functions preserve the order of inputs, ensuring that increasing the inputs always results in an increase in the outputs.
 
 Commonly used activation functions in neural networks include the sigmoid function, hyperbolic tangent (tanh), rectified linear unit (ReLU), and scaled exponential linear unit (SELU).
 

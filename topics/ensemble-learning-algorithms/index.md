@@ -1,6 +1,6 @@
 # Ensemble learning algorithms
 
-Ensemble learning is a machine learning technique that combines multiple individual models (learners) to make more accurate predictions than each model could on its own. Ensemble learning improves predictive accuracy, robustness, and generalization. 
+Ensemble learning is a machine learning technique that combines multiple individual models (learners) to make more accurate predictions than each model could on its own. Ensemble learning improves predictive accuracy, robustness, and generalization.
 
 Ensemble learning can be applied to various types of machine learning algorithms, such as decision trees, neural networks, support vector machines, and more.
 

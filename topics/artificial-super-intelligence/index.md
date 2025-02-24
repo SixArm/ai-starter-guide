@@ -2,7 +2,7 @@
 
 Artificial Super Intelligence (ASI) refers to a hypothetical level of artificial intelligence that surpasses the cognitive capabilities of the human mind across all domains. ASI is an advanced form of artificial intelligence that would possess intellectual abilities far beyond human comprehension and capacity. It is often portrayed in science fiction as an AI system that is not only highly intelligent but also exhibits characteristics like self-awareness, creativity, emotional intelligence, and the ability to improve itself recursively.
 
-Key characteristics…
+**Key aspects:**
 
 Superhuman Abilities: ASI would possess superhuman abilities, allowing it to perform tasks with extraordinary precision and accuracy, far beyond what humans can achieve.
 

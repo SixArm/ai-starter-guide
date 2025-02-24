@@ -2,7 +2,7 @@
 
 A chatbot is a computer program or an AI application designed to simulate human conversation through text or voice interactions. It is a form of conversational AI that uses natural language processing (NLP) techniques to understand and respond to user input in a human-like manner. Chatbots can be deployed in various platforms, such as websites, messaging apps, virtual assistants, or customer support systems.
 
-Key characteristics…
+**Key aspects:**
 
 Natural Language Understanding: Chatbots are equipped with NLP capabilities that allow them to comprehend and interpret user input, whether it's in the form of written text or spoken language.
 

@@ -2,7 +2,7 @@
 
 Supervised learning is a type of machine learning where the algorithm is trained on a labeled dataset, meaning that each input data point is associated with its corresponding output or target value. The objective of supervised learning is to learn a mapping or relationship between the input data and the output labels, allowing the algorithm to make predictions on new, unseen data.
 
-Key steps…
+**Key aspects:**
 
 Input Data: The training dataset consists of input data examples, also known as features or attributes. These could be images, text, numerical values, or any other form of data.
 

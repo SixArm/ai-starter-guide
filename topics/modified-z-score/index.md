@@ -9,4 +9,4 @@ Formula:
 * $\operatorname{MAD}$ is the median absolute deviation, calculated as the median of the absolute differences between each data point and the median.
 * $\mathrm{0.6745}$ makes the Modified Z-Score comparable to the standard Z-Score, because in a standard normal distribution (mean = 0, standard deviation = 1), approximately 0.6745 of the data lies within one standard deviation from the mean.
 
-The interpretation of the Modified Z-Score is similar to that of the standard Z-Score: the farther the Modified Z-Score is from 0, the more extreme the value is relative to the rest of the data. When using the Modified Z-Score for outlier detection, you can set a threshold value above which data points are considered outliers. 
+The interpretation of the Modified Z-Score is similar to that of the standard Z-Score: the farther the Modified Z-Score is from 0, the more extreme the value is relative to the rest of the data. When using the Modified Z-Score for outlier detection, you can set a threshold value above which data points are considered outliers.

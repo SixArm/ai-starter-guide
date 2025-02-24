@@ -4,13 +4,13 @@ Deep Q Networks (DQNs) are a type of reinforcement learning algorithm that combi
 
 Advantages of deep q networks include handling complex state spaces and end-to-end learning. Challenges include training instability, crucial hyperparameter tuning, and exploration-exploitation tradeoff tuning.
 
-Various extensions and improvements have been proposed, including Double Q-learning, Dueling DQNs, and Rainbow DQN, which combine multiple enhancements to improve performance and training stability. 
+Various extensions and improvements have been proposed, including Double Q-learning, Dueling DQNs, and Rainbow DQN, which combine multiple enhancements to improve performance and training stability.
 
-Key aspects…
+**Key aspects:**
 
 Neural Network Architecture: A deep neural network is used to approximate the Q-function. The network takes the current state as input and outputs Q-values for all possible actions.
 
-Experience Replay: DQNs use an experience replay buffer to store experiences (state, action, reward, next state) encountered during interactions with the environment. 
+Experience Replay: DQNs use an experience replay buffer to store experiences (state, action, reward, next state) encountered during interactions with the environment.
 
 Two Networks: DQNs use an "online" network (policy network) and a "target" network. The target network's parameters are updated less frequently, which helps stabilization.
 

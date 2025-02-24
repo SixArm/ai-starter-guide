@@ -4,7 +4,7 @@ A deep neural network (DNN) is a type of artificial neural network that contains
 
 The term "deep" in deep neural networks refers to the depth of the network, which is determined by the number of hidden layers between the input layer and the output layer. Unlike shallow neural networks with just one or two hidden layers, deep neural networks typically have several hidden layers, which enables them to learn more abstract and intricate features from the input data.
 
-Key characteristics…
+**Key aspects:**
 
 * Multiple Hidden Layers: DNNs consist of multiple hidden layers, each containing multiple neurons. Each hidden layer learns to represent different levels of abstraction in the data.
 

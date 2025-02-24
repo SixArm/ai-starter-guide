@@ -4,7 +4,7 @@ Symbolic Artificial Intelligence, also known as Classical AI or Good Old-Fashion
 
 In Symbolic AI, knowledge is typically represented using symbols, which can represent objects, concepts, or relationships between them. These symbols are manipulated using rules of logic and reasoning systems to derive new knowledge or solve problems.
 
-Key features…
+**Key aspects:**
 
 Knowledge Representation: Information is represented explicitly using symbols and rules, allowing for a structured and organized representation of knowledge.
 

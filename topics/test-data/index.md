@@ -4,7 +4,7 @@ Test data, also known as the test set, is a separate subset of data used to eval
 
 Test data is crucial for providing an unbiased estimate of the model's performance and to ensure that the model is not overfitting to the training data. Overfitting occurs when a model performs well on the training data but fails to generalize to new data, indicating that the model has memorized patterns in the training set rather than learning meaningful patterns.
 
-Typical steps…
+**General steps:**
 
 Model Training: The model is trained using the training data, which includes input samples and their corresponding target labels.
 

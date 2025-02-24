@@ -4,7 +4,7 @@ Q-learning is a model-free reinforcement learning algorithm used in machine lear
 
 Q-learning has been successfully applied to a variety of problems, including robotics, game playing, and autonomous systems. It's a foundational algorithm in the field of reinforcement learning and serves as the basis for more advanced techniques and algorithms.
 
-Key aspects:
+**Key aspects:**
 
 * **State (s)**: A representation of the current situation or configuration of the environment.
 

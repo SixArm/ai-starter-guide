@@ -2,7 +2,7 @@
 
 The Central Processing Unit (CPU) is a critical component of a computer system. The CPU performs the majority of the processing operations necessary for the computer to function properly. In modern computing, CPUs are often accompanied by Graphics Processing Units (GPUs) and other specialized processing units to optimize performance for specific tasks.
 
-Key aspects…
+**Key aspects:**
 
 Execution: The CPU fetches instructions from memory, decodes them, and executes them. Instructions are basic operations, such as arithmetic calculations, data moves, and logic comparisons.
 

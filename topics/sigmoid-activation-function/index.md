@@ -10,7 +10,7 @@ Function:
 
 * $f(x)$ is the output of the neuron after applying the sigmoid activation function.
 
-Key characteristics…
+**Key aspects:**
 
 Non-Linearity: The sigmoid function is non-linear, introducing non-linearity into the neural network. This non-linearity is essential for the network to learn and approximate complex, nonlinear relationships in the data.
 

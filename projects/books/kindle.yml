@@ -9,6 +9,14 @@ summary: >
   reinforcement learning, large language models (LLMs), neural networks (NNs),
   activation functions,  loss functions, kernel tricks, AI performance metrics,
   AI tools, and AI business areas and sectors.
+
+  The book explains one topic per page, akin to a big glossary of terminology, or collection of introductory wiki pages, or an encyclopedia collection of summary notes.
+bio: >
+  Joel Parker Henderson is a global 
+  technology consultant, programmer, 
+  open source leader, and book editor.
+  To learn more and to connect online:
+  https://linktr.ee/joelparkerhenderson
 categories:
   - 
   - 
@@ -21,3 +29,12 @@ keywords:
   - 
   - 
   - 
+isbn: ""
+paperback:
+  dimensions: 8x10 inch
+  finish: glossy
+  cover:
+    spine:
+      font: Open Sans 14pt
+      title-align: left
+      author-align: right

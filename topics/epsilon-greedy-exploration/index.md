@@ -1,6 +1,6 @@
 # Epsilon-greedy exploration
 
-Epsilon-greedy exploration is a common strategy used in reinforcement learning to balance the trade-off between exploration and exploitation when an agent interacts with an environment. 
+Epsilon-greedy exploration is a common strategy used in reinforcement learning to balance the trade-off between exploration and exploitation when an agent interacts with an environment.
 
 The agent faces the dilemma of choosing between exploiting the current best-known action (exploitation) and exploring other actions to discover potentially better ones (exploration). The epsilon-greedy strategy introduces randomness into the agent's action selection process, allowing it to explore while still favoring actions that seem to be optimal based on its current knowledge.
 

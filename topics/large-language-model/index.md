@@ -4,7 +4,7 @@ A Large Language Model (LLM) is a type of artificial intelligence model that is 
 
 LLMs are typically built using deep learning techniques, such as transformer-based architectures, and are trained on massive datasets containing a vast amount of diverse text. The training process involves predicting the next word or token in a sequence of words, given the preceding context, in a technique called language modeling. This enables the model to learn the probabilities and relationships between words and generate coherent and contextually appropriate text.
 
-Key characteristics…
+**Key aspects:**
 
 Text Generation: LLMs can generate human-like text by predicting and arranging words or tokens based on the context provided in the input.
 

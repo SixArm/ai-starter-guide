@@ -4,14 +4,14 @@ An AI agent, also known as an artificial agent or intelligent agent, is a softwa
 
 Examples of AI agents include chatbots, AI assistants, autonomous vehicles, stock trading bots, and smart robots.
 
-Key characteristics…
+**Key aspects:**
 
-Autonomy: AI agents have a certain degree of autonomy, meaning they can operate independently and make decisions based on their internal programming, knowledge, and the information available to them.
+* **Autonomy**: AI agents have a certain degree of autonomy, meaning they can operate independently and make decisions based on their internal programming, knowledge, and the information available to them.
 
-Sensing: Agents can perceive and gather information from their environment using sensors, which can include various data sources like cameras, microphones, and other sensors depending on the application.
+* **Sensing**: Agents can perceive and gather information from their environment using sensors, which can include various data sources like cameras, microphones, and other sensors depending on the application.
 
-Reasoning: AI agents use reasoning mechanisms to process the information they have gathered and make informed decisions or predictions about the best course of action to achieve their goals.
+* **Reasoning**: AI agents use reasoning mechanisms to process the information they have gathered and make informed decisions or predictions about the best course of action to achieve their goals.
 
-Learning: Many AI agents are equipped with machine learning capabilities, allowing them to learn from data and improve their performance over time.
+* **Learning**: Many AI agents are equipped with machine learning capabilities, allowing them to learn from data and improve their performance over time.
 
-Goal-Directed Behavior: AI agents are designed to achieve specific objectives or goals, and their actions are directed towards optimizing their performance in pursuit of these objectives.
+* **Goal-Directed Behavior**: AI agents are designed to achieve specific objectives or goals, and their actions are directed towards optimizing their performance in pursuit of these objectives.

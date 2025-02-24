@@ -2,7 +2,7 @@
 
 The Generative Pretrained Transformer (GPT) is a family of large-scale language models. It is based on the transformer architecture and is designed for natural language processing (NLP) tasks. The key innovation of the GPT models is their ability to generate human-like text by predicting the next word in a sequence, making them powerful language generators.
 
-Key characteristics…
+**Key aspects:**
 
 Transformer Architecture: GPT is built upon the transformer architecture, which utilizes self-attention mechanisms to process input sequences in parallel, allowing the model to consider the context of each word or token concerning all other words in the sequence.
 

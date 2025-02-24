@@ -1,6 +1,6 @@
 # Autoencoders
 
-Autoencoders are a type of neural network architecture used in unsupervised machine learning for tasks such as dimensionality reduction, feature learning, anomaly detection, and data generation. They are a specific kind of neural network designed to learn efficient representations of input data by compressing it into a lower-dimensional space and then reconstructing the original data from this compressed representation. 
+Autoencoders are a type of neural network architecture used in unsupervised machine learning for tasks such as dimensionality reduction, feature learning, anomaly detection, and data generation. They are a specific kind of neural network designed to learn efficient representations of input data by compressing it into a lower-dimensional space and then reconstructing the original data from this compressed representation.
 
 Autoencoders are trained using a reconstruction loss, which measures the difference between the original input data and the data reconstructed by the decoder. This loss encourages the autoencoder to learn a meaningful representation that can accurately reconstruct the input data. The training process involves updating the weights of the neural network to minimize this reconstruction loss.
 

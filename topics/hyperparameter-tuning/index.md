@@ -2,7 +2,7 @@
 
 Hyperparameter tuning, also known as hyperparameter optimization, is the process of finding the best set of hyperparameters for a machine learning model. Hyperparameters are parameters that are set before the learning process begins and cannot be learned from the data directly. Common examples of hyperparameters include learning rate, number of hidden layers in a neural network, number of trees in a random forest, regularization strength, batch size, and so on. Automated hyperparameter tuning libraries and tools are available in popular machine learning frameworks e.g., scikit-learn, TensorFlow, PyTorch.
 
-Typical steps…
+**General steps:**
 
 Define a Search Space: Define a range or set of possible values for each hyperparameter that you want to tune. An optimization algorithm will search this space for the best hyperparameters.
 

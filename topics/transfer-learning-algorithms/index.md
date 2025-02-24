@@ -10,8 +10,8 @@ Fine-tuning: Use a pre-trained model and train it further on a new dataset or ta
 
 Feature Extraction: Use a pre-trained model to extract features from the data, followed by training a new classifier on top of those features. This approach is especially useful when the new dataset is small.
 
-Multi-task Learning: Train a single model on multiple related tasks simultaneously. The model shares some or all of its layers across tasks, allowing knowledge learned from one task to benefit others. 
+Multi-task Learning: Train a single model on multiple related tasks simultaneously. The model shares some or all of its layers across tasks, allowing knowledge learned from one task to benefit others.
 
-Domain Adaptation: Transfer knowledge from a source domain to a target domain, even if the distributions of the data in the two domains are different. 
+Domain Adaptation: Transfer knowledge from a source domain to a target domain, even if the distributions of the data in the two domains are different.
 
-Knowledge Distillation: Train a smaller model (student) to mimic the behavior of a larger, more complex model (teacher). The teacher model can be a pre-trained model or an ensemble of models. 
+Knowledge Distillation: Train a smaller model (student) to mimic the behavior of a larger, more complex model (teacher). The teacher model can be a pre-trained model or an ensemble of models.

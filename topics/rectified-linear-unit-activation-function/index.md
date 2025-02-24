@@ -10,7 +10,7 @@ Function: f(x) = max(0, x)
 
 The ReLU function is piecewise linear, and it works by setting all negative values in the input to 0, while leaving positive values unchanged. Mathematically, it behaves like a linear function for x >= 0 and returns 0 for x < 0.
 
-Key characteristics…
+**Key aspects:**
 
 Non-Linearity: Although ReLU is a linear function for positive inputs, it introduces non-linearity into the neural network. This non-linearity allows neural networks to learn and approximate complex, nonlinear relationships in the data.
 

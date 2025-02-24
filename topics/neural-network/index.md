@@ -2,7 +2,7 @@
 
 A neural network (NN) is a computational model inspired by biological neural networks in the human brain. It is a type of machine learning algorithm that learns to perform tasks by adjusting its internal parameters based on the data it processes. Neural networks have demonstrated remarkable success in various artificial intelligence tasks, such as image recognition and natural language processing.
 
-Key aspects…
+**Key aspects:**
 
 Neurons (Nodes): The basic building blocks are artificial neurons, also known as nodes or units. These neurons receive input, process it using a set of weights and biases, then produce an output.
 

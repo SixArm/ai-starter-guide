@@ -2,7 +2,7 @@
 
 AI ethics refers to the ethical considerations and principles that guide the development, deployment, and use of artificial intelligence systems. As AI technologies continue to advance and become more integrated into various aspects of society, it becomes crucial to address the potential ethical implications they may have.
 
-Key aspects…
+**Key aspects:**
 
 Fairness: AI systems should be designed and trained to be fair, unbiased, and avoid discrimination. Biases can inadvertently be learned from data and result in unfair outcomes, particularly in areas like hiring, lending, or law enforcement.
 

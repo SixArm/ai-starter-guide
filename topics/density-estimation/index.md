@@ -10,7 +10,7 @@ Histograms: Histograms divide the data range into intervals (bins) and count the
 
 Kernel Density Estimation (KDE): KDE smooths the histogram by placing a kernel (usually a Gaussian function) on each data point and then summing up these kernels.
 
-Parzen Windows: Similar to KDE, Parzen windows involve placing windows (often Gaussian) around each data point and summing them to estimate the density at different points. 
+Parzen Windows: Similar to KDE, Parzen windows involve placing windows (often Gaussian) around each data point and summing them to estimate the density at different points.
 
 Mixture Models: Mixture models assume that the data is a mixture of multiple probability distributions, such as from multiple subpopulations. Gaussian Mixture Models (GMMs) are a common example.
 

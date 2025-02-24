@@ -2,7 +2,7 @@
 
 AI sales refers to the application of artificial intelligence techniques and technologies in the sales process. It involves using AI algorithms, machine learning, and data analysis to enhance sales strategies, improve customer interactions, and drive better sales outcomes.
 
-Key aspects…
+**Key aspects:**
 
 Lead Management: AI can analyze customer data, including demographics, behavior patterns, and past interactions, to identify potential leads, qualify them, and prioritize them based on their likelihood to convert.
 

@@ -2,7 +2,7 @@
 
 The Tensor Processing Unit (TPU) is a custom-designed application-specific integrated circuit (ASIC) to accelerate machine learning workloads, particularly those involving tensor operations. TPU is designed to be highly efficient in performing matrix multiplication and other tensor-related computations commonly used in neural networks and deep learning models.
 
-Key aspects…
+**Key aspects:**
 
 Matrix Multiplication Acceleration: The TPU is optimized to perform large-scale matrix multiplication operations, which are fundamental to the training and inference phases of neural networks.
 

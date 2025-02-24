@@ -1,6 +1,6 @@
 # Random forest
 
-Random forest is an ensemble learning technique that leverages the strength of multiple decision trees to create a robust and accurate predictive model. It's widely used for both classification and regression tasks. Random Forest builds a "forest" of decision trees and combines their predictions to improve overall accuracy and generalization. 
+Random forest is an ensemble learning technique that leverages the strength of multiple decision trees to create a robust and accurate predictive model. It's widely used for both classification and regression tasks. Random Forest builds a "forest" of decision trees and combines their predictions to improve overall accuracy and generalization.
 
 Random Forest can be a go-to choice for a wide range of machine learning problems. Its robustness, simplicity, and capability to handle both categorical and numerical data make it a popular choice among data scientists and practitioners.
 

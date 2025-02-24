@@ -4,8 +4,12 @@
 
 AI Starter Guide: this book explains one topic at a time, like a big glossary, easy wiki, quick encyclopedia, or summary notes.
 
-* Download the free e-book file [EPUB](ai-starter-guide.epub) or [PDF](ai-starter-guide.pdf).
-* If you wish, [pay what you want](https://gumroad.com/l/ai-starter-guide).
+* Get the book: 
+  [Free EPUB](https://github.com/SixArm/ai-starter-guide/raw/main/ai-starter-guide.epub), 
+  [Free PDF](https://github.com/SixArm/ai-starter-guide/raw/main/ai-starter-guide.pdf),
+  [Gumroad](https://gumroad.com/l/ai-starter-guide),
+  [Kindle](https://www.amazon.com/dp/TODO), 
+  [Paperback](https://www.amazon.com/dp/TODO).
 * Edited by [Joel Parker Henderson](https://github.com/joelparkerhenderson).
 * For questions and suggestions [email me](mailto:joel@joelparkerhenderson.com).
 

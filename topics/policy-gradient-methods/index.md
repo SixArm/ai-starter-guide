@@ -4,7 +4,7 @@ Policy gradient methods are a class of reinforcement learning algorithms that di
 
 Policy gradient methods are known for their ability to handle high-dimensional action spaces and stochastic policies. They have been successfully applied in various domains, including robotics, natural language processing, and game playing.
 
-Key aspects:
+**Key aspects:**
 
 * **Policy (π)**: The policy defines the agent's strategy, specifying the probability distribution over actions given a particular state.
 

@@ -2,7 +2,7 @@
 
 Artificial General Intelligence (AGI) refers to a type of artificial intelligence that possesses the ability to understand, learn, and apply knowledge in a way that is comparable to human intelligence across a wide range of tasks. Unlike narrow AI, which is designed to excel at specific tasks or domains, AGI aims to exhibit human-like cognitive abilities, enabling it to perform any intellectual task that a human can do.
 
-Key characteristics…
+**Key aspects:**
 
 Versatility: AGI is not limited to a single task or domain; it can adapt and perform well in various tasks, learning from experience and applying knowledge across different contexts.
 

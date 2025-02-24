@@ -1,8 +1,8 @@
 # Anomaly detection algorithms
 
-Anomaly detection algorithms are techniques used in machine learning and data analysis to identify unusual or abnormal patterns in data. Anomalies, also known as outliers, are data points that deviate significantly from the majority of the data points and may indicate unexpected events, errors, or rare occurrences in the dataset. 
+Anomaly detection algorithms are techniques used in machine learning and data analysis to identify unusual or abnormal patterns in data. Anomalies, also known as outliers, are data points that deviate significantly from the majority of the data points and may indicate unexpected events, errors, or rare occurrences in the dataset.
 
-Anomaly detection has various applications, including fraud detection, network intrusion detection, faultdetection, and health monitoring. The choice of the anomaly detection algorithm depends on the nature of the data, the desired level of interpretability, the presence of labeled or unlabeled data, and the specific application domain. 
+Anomaly detection has various applications, including fraud detection, network intrusion detection, faultdetection, and health monitoring. The choice of the anomaly detection algorithm depends on the nature of the data, the desired level of interpretability, the presence of labeled or unlabeled data, and the specific application domain.
 
 Common anomaly detection categories and algorithms…
 

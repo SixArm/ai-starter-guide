@@ -2,7 +2,7 @@
 
 A Convolutional Neural Network (CNN) is a specialized type of deep learning model primarily used for processing and analyzing visual data, such as images and videos. The key advantage of CNNs is their ability to learn hierarchical and spatially invariant representations from visual data. Convolutional layers capture local patterns, while pooling layers summarize the learned features across larger regions, enabling the network to recognize complex patterns and objects in different positions and orientations within the input images. CNNs are especially good for image classification, image segmentation, object detection,
 
-Key aspects…
+**Key aspects:**
 
 Convolutional Layers: These layers consist of small filters or kernels that slide (convolve) over the input image to perform element-wise multiplication and summation, producing feature maps. The filters learn to detect different patterns and features in the input data.
 

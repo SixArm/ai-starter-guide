@@ -4,7 +4,7 @@ Training data, in the context of machine learning, refers to a labeled dataset u
 
 In supervised learning, which is the most common type of machine learning, the training data consists of pairs of input samples and their corresponding target labels. The model learns from these examples to make predictions or classify new, unseen data accurately.
 
-Key aspects…
+**Key aspects:**
 
 * Labeled Examples: Each sample in the training data has an associated ground truth label, which serves as the correct answer that the model aims to learn.
 

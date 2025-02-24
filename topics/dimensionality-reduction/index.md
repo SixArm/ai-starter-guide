@@ -10,6 +10,6 @@ There are two main types of dimensionality reduction techniques:
 
 Two commonly used dimensionality reduction methods are:
 
-* Principal Component Analysis (PCA): By projecting the data onto a subset of these principal components, you can create a lower-dimensional representation while retaining as much variance as possible. 
+* Principal Component Analysis (PCA): By projecting the data onto a subset of these principal components, you can create a lower-dimensional representation while retaining as much variance as possible.
 
 * t-Distributed Stochastic Neighbor Embedding (t-SNE): t-SNE maps high-dimensional data points into a lower-dimensional space (often 2D or 3D) in a way that maintains pairwise similarities between points.

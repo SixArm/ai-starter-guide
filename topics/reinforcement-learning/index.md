@@ -2,7 +2,7 @@
 
 Reinforcement Learning (RL) is a subfield of machine learning and artificial intelligence that focuses on how an agent can learn to make decisions by interacting with an environment. It is inspired by behavioral psychology, where learning is achieved through trial-and-error and feedback in the form of rewards or punishments. It is well-suited for problems where the optimal strategy is not known beforehand.
 
-Key aspects…
+**Key aspects:**
 
 Agent: The learner that interacts with the environment.
 

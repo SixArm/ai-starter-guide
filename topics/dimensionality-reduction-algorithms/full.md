@@ -1,4 +1,4 @@
-# Dimensionality reduction algorithms 
+# Dimensionality reduction algorithms
 
 Dimensionality reduction algorithms are techniques used in machine learning and data analysis to reduce the number of features or variables in a dataset while retaining as much relevant information as possible. High-dimensional datasets can be computationally expensive and may suffer from the curse of dimensionality, where the performance of machine learning models degrades due to the sparsity of data points in high-dimensional space. Dimensionality reduction helps in simplifying data representation, speeding up computations, and improving the performance of machine learning models.
 

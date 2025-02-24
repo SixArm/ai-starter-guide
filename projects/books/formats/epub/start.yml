@@ -12,7 +12,7 @@ description: >
   reinforcement learning, large language models (LLMs), neural networks (NNs),
   activation functions,  loss functions, kernel tricks, AI performance metrics,
   AI tools, and AI business areas and sectors.
-cover-image: "../../assets/images/splash/1600x2500.jpg"
+cover-image: "../../../../assets/images/cover/1600x2500.jpg"
 links-as-notes: false
 listings-disable-line-numbers: true
 listings-no-page-break: false
@@ -20,5 +20,5 @@ disable-header-and-footer: false
 subparagraph: true
 lang: "en-US"
 css: "epub.css"
-rights: "© 2023 Joel Parker Henderson. All rights reserved."
+rights: "© 2023-2024 Joel Parker Henderson. All rights reserved."
 ---

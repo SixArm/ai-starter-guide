@@ -2,7 +2,7 @@
 
 Explainable Artificial Intelligence (XAI) refers to the development of AI systems and models that can provide understandable and transparent explanations for their decisions and actions. The goal of XAI is to make AI systems more interpretable to humans, enabling users to understand the underlying reasoning and logic behind the AI's outputs. This improves trust and adoption of AI systems where accountability and understanding are crucial.
 
-Key concepts…
+**Key aspects:**
 
 Interpretable Models: XAI models are more interpretable, such as rule-based systems, decision trees, or linear models. These have a clear decision-making process and can provide explanations at each step.
 

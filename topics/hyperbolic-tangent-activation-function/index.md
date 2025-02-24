@@ -11,7 +11,7 @@ Formula:
 
 * $e$ is the base of the natural logarithm, approximately equal to 2.71828.
 
-Key characteristics…
+**Key aspects:**
 
 Range: The tanh function maps the input to a range between -1 and 1. This means that negative inputs will be mapped close to -1, zero inputs to 0, and positive inputs to values close to 1.
 

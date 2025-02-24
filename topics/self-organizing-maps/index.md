@@ -2,7 +2,7 @@
 
 Self-Organizing Maps (SOM), also known as Kohonen maps, are a type of unsupervised artificial neural network used for dimensionality reduction, data visualization, and clustering. SOMs are particularly useful for visualizing high-dimensional data in lower-dimensional spaces while preserving the topological relationships between data points.
 
-SOMs consist of a grid of nodes or neurons, where each node represents a weight vector in the input space. During training, the SOM "learns" to arrange these nodes in a way that reflects the similarities and relationships between data points. 
+SOMs consist of a grid of nodes or neurons, where each node represents a weight vector in the input space. During training, the SOM "learns" to arrange these nodes in a way that reflects the similarities and relationships between data points.
 
 The training process steps…
 

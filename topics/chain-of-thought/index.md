@@ -2,7 +2,7 @@
 
 The term "chain of thought" is often used to describe the sequence of reasoning steps or thought processes that an artificial intelligence system goes through to arrive at a decision or generate a response. It refers to the internal workings of the AI model as it processes input data and produces an output.
 
-Key stages…
+**Key aspects:**
 
 Input Processing: The AI model receives input data, which could be text, images, or other forms of data, depending on the type of AI model. For language models, the input is typically a sequence of words.
 

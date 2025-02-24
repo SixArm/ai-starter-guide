@@ -8,7 +8,7 @@ Similarity Computation: For each data point in the high-dimensional space, t-SNE
 
 Probability Distributions: t-SNE converts the similarities into conditional probabilities that measure the likelihood of choosing one data point as a neighbor given another data point as a reference.
 
-Lower-Dimensional Mapping: t-SNE constructs a lower-dimensional space (typically 2D or 3D) and assigns an initial random position to each data point in that space. 
+Lower-Dimensional Mapping: t-SNE constructs a lower-dimensional space (typically 2D or 3D) and assigns an initial random position to each data point in that space.
 
 Gradient Descent: t-SNE uses gradient descent optimization to iteratively move the points in the lower-dimensional space so that the pairwise similarity distributions better match the high-dimensional similarity distributions. Points that have high similarities in the high-dimensional space are attracted to each other in the lower-dimensional space, and points with low similarities are repelled from each other.
 

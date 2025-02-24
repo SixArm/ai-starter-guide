@@ -6,7 +6,7 @@ The actor is responsible for selecting actions based on the current policy. It d
 
 The critic evaluates the actions taken by the actor. It estimates the value function, which represents the expected cumulative reward of following a particular policy. The critic provides feedback to the actor by assessing the quality of the selected actions.
 
-The key idea behind Actor-Critic methods is to leverage the advantages of both policy-based and value-based approaches:
+**Key idea**:
 
 * **Policy-Based (Actor)**: The actor explores and exploits the environment by selecting actions based on the current policy. This introduces a level of stochasticity in the agent's behavior.
 
@@ -14,7 +14,7 @@ The key idea behind Actor-Critic methods is to leverage the advantages of both p
 
 The Actor-Critic algorithm involves updating both the actor's policy and the critic's value function iteratively. The updates are typically performed using policy gradients for the actor and temporal difference (TD) learning for the critic.
 
-Common Actor-Critic algorithms include:
+**Common algorithms**:
 
 * **Advantage Actor-Critic (A2C)**: A2C is a synchronous version of the Actor-Critic algorithm. It updates the policy and the value function at each time step, using the advantage function to reduce variance.
 

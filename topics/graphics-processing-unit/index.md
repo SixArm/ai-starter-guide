@@ -2,7 +2,7 @@
 
 A Graphics Processing Unit (GPU) is a specialized processor that is designed to perform complex mathematical calculations. Originally developed for rendering graphics in video games and 3D applications, GPUs have become essential in artificial intelligence, scientific simulations, and data processing.
 
-Key aspects…
+**Key aspects:**
 
 Parallel Processing: GPUs are designed with hundreds to thousands of cores, which allow them to perform multiple tasks simultaneously. This parallel architecture is well-suited for tasks that involve heavy computations, as many operations can be processed concurrently.
 
